@@ -1,0 +1,8 @@
+names:
+- rnot
+- rot
+nc: 2
+path: plywood_yolov8
+test: images\val
+train: images\train
+val: images\val
